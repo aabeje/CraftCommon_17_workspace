@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+123abc
+=======
+I love Ethiopia!
+>>>>>>> 7d2a1881741111c5327d2ada472b1cb8ecedd990
